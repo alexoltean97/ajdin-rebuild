@@ -126,6 +126,28 @@ body {
     .about-text{
         padding:20px 0 0 0 !important;
     }
+
+    .last-div{
+        margin-top: 25px;
+    }
+}
+
+
+@media screen and (max-width: 550px){
+    .last-div{
+        margin-top: 55px;
+    }
+}
+
+@media screen and (max-width: 510px){
+
+    .last-div{
+        margin-top: 0!important;
+    }
+
+    .about--options div{
+        margin-bottom: 100px !important;
+    }
 }
 
 @media screen and (max-width: 767px){
@@ -423,15 +445,18 @@ body {
 
 .about--options {
     max-width: 100%;
-    -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
     margin: 0;
     padding: 0;
     list-style: none;
     margin-top: 50px;
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.about--options h4{
+    color:#0C94FC;
 }
 
 @media screen and (max-width: 499px) {
@@ -558,7 +583,7 @@ body {
 }
 
 .contact{
-    padding: 100px 0 100px 0;
+    padding: 100px 0 0 0;
 }
 
 .contact h2{
@@ -832,10 +857,6 @@ body {
         float: none;
     }
 }
-
-
-
-
 
 .main-footer{
     padding: 50px 0 50px 0;

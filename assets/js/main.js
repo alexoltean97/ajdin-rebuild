@@ -20,3 +20,8 @@ $(".slider--prev, .slider--next").click(function() {
         opacity: 1
     }, 400)
 });
+
+
+$(".work-request--information input").focusout(function() {
+    "" === $(this).val() ? $(this).removeClass("has-value") : $(this).addClass("has-value")
+});

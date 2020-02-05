@@ -129,33 +129,20 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <h2>Pricing</h2>
-                    <div class="price--options">
-                        <a href="#0">
-                            <h2 class="price">FREE</h2>
-                            <h3>First Chapter</h3>
-                        </a>
-                        <a href="#0">
-                            <h2 class="price">&euro; 1,00</h2>
-                            <h3>Next Chapter</h3>
-                        </a>
-                        <a href="#0">
-                            <h2 class="price">&euro; 2,50</h2>
-                            <h3>All Chapters</h3>
-                        </a>
-                    </div>
+
 
                     <div class="about--options">
                         <div style="background-image: url('assets/img/bg-2.png');">
-                            <h4>Free</h4>
+                            <h4>FREE</h4>
                             <h3>First Chapter</h3>
                         </div>
                         <div style="background-image: url('assets/img/bg-1.png');background-size: 300px; background-position-y: -30px;">
-                            <h4>1$</h4>
+                            <h4>€1.00</h4>
                             <h3>Next Chapter</h3>
                         </div>
 
                         <div style="background-image: url('assets/img/bg-5.png'); background-size: 150px; background-position-y: -5px;" class="last-div">
-                            <h4>2.5$</h4>
+                            <h4>€2.50</h4>
                             <h3>All chapters</h3>
                         </div>
 
