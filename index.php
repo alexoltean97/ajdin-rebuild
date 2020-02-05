@@ -50,6 +50,7 @@
                     </div> <!-- End .intro -->
                 </div>
             </div> <!-- End .row -->
+            <hr>
         </div>
     </section> <!-- End .intro--section -->
 
