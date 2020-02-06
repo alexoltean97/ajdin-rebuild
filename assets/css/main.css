@@ -759,6 +759,13 @@ body {
 }
 
 @media (max-width: 767px) {
+
+    .play-resp{
+        position: relative;
+        right: 6px;
+        width: 161px;
+    }
+
     .work-request--options {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
@@ -780,6 +787,12 @@ body {
 @media (max-width: 600px) {
     .work-request--options {
         margin: 20px 0
+    }
+}
+
+@media screen and (max-width: 499px){
+    .about--options h3{
+        right: 20px;
     }
 }
 

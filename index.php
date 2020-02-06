@@ -37,7 +37,7 @@
                                     </a>
 
                                     <a href="#">
-                                        <img src="assets/img/google-play.png" height="48"/>
+                                        <img class="play-resp" src="assets/img/google-play.png" height="48"/>
                                     </a>
                                 </div> <!-- End .image-links -->
                             </div>
