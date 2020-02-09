@@ -118,36 +118,36 @@ body {
 }
 
 .intro--section hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
     position: relative;
     bottom: 115px;
 }
 
 .screen-shoots hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
     position: relative;
 }
 
 .pricing hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
     position: relative;
 }
 
 .about-us hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
 }
 
 .contact hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
 }
 
 .main-footer hr{
-    height: 1px;
+    height: 1.5px;
     background-color: #282828;
 }
 
@@ -431,6 +431,22 @@ body {
     .work--lockup .slider--next,
     .work--lockup .slider--prev {
         top: 105px
+    }
+
+    .screen-shoots {
+        padding: 65px 0 50px 0!important;
+    }
+
+    .pricing{
+        padding: 15px 0 42px 0!important;
+    }
+
+    .about-us{
+        padding: 0 0 0 0!important;
+    }
+
+    .contact{
+        padding: 70px 0 0 0!important;
     }
 }
 
@@ -974,7 +990,7 @@ body {
 .main-footer p,
 .main-footer a{
     font-size: 16px;
-    color:lightgrey;
+    color:#808080;
 }
 
 .main-footer a:hover{
