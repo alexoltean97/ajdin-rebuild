@@ -40,21 +40,18 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="about-text">
                     <h2>Privacy Policy</h2>
-                    <p>Are you a tennis player looking to improve your game? And is the mental game also one of your challenges? Then look no further. Choking, emotional outbursts, lack of motivation, lack of consistency, all soon to be a thing of your past mentality. From recreational to professional level, as tennis players, we all deal with the same mental challenges. We want to play our best tennis, consistently. We want to remain calm under pressure. We want to will ourselves into flow. We want to be the player that always wins those tough and close matches...</p>
-                    <p>And yet, most coaches can offer us only technical and physical training drills. Good coaches will help with the tactical side as well. But mental training is reserved for the select few top ATP players. This needs not be the case.
-                    </p>
-
-                    <p>You can work on your own game! And especially the mental game. As a mental coach, I’ve helped hundreds of players to get the best out of themselves, to win more often, and even to enjoy tennis more intensely. I have written a book about a concrete step-by-step method of mental training. As an addition to that, I designed this Inner Tennis app to motivate you to find your inner strength as a tennis player and a person.
-                    </p>
-
-                    <p>The quotes in this app are inspired by the ancient spiritual teachings about warriors, written by Carlos Castaneda in his book The Wheel of Time. Mixed together with concrete techniques from sport psychology, I’ve turned these spiritual teachings into a five-chapter mental-training program that any tennis player can follow.
-                    </p>
-
-                    <p>Read the quotes as many times as you can. Think about them. Internalize them. Make them your own. Most importantly, do the chapter assignments. Be honest with yourself. Make notes of all your thoughts. Then revisit, and if necessary even change those notes. Use this app as a guide for your journey to become a mentally strong tennis player.
-                    </p>
-
-                    <p>Best of luck! And if you have any questions or if you need support, feel free to contact me.
-                    </p>
+                    <p>Last Updated: January 12, 2020</p>
+                    <p><b>We respects your privacy. We don’t store your data, period.</b></p>
+                    <p>We physically can’t. We have nowhere to store it. We don’t even have a server database to store it. So even if Roger Federer asked to see your data, we wouldn’t have anything to show him.</p>
+                    <p>What happens on your smartphone, stays on your smartphone.</p>
+                    <p><b>This Privacy Policy does not apply to the third-party online/mobile store from which you install the Inner Tennis application or make payments, which may collect and use data about you. We are not responsible for any of the data collected by any such third party.</b></p>
+                    <p>If you have questions or comments about this Privacy Policy, please contact us at:</p>
+                    <p>MAKS Ventures BV <br>
+                        Johannes Worpstraat 23-3<br>
+                        1076BD Amsterdam<br>
+                        The Netherlands<br>
+                        +31650819599<br>
+                        contact[at]top-tennis.net</p>
 
                     <div class="link_box">
                         <a href="index.php#about" style="color: #fff; text-decoration: none;">About &nbsp;
@@ -67,7 +64,7 @@
                   </span>
                         </a> &nbsp; &nbsp;</br>
 
-                        <a href="terms-conditions.php" style="color: #fff; text-decoration: none;">Terms and codition  &nbsp;
+                        <a href="terms-conditions.php" style="color: #fff; text-decoration: none;">Terms and coditions  &nbsp;
                             <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style=" width: 15px; fill: #fff;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">

@@ -119,36 +119,36 @@ body {
 
 .intro--section hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
     position: relative;
     bottom: 115px;
 }
 
 .screen-shoots hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
     position: relative;
 }
 
 .pricing hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
     position: relative;
 }
 
 .about-us hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
 }
 
 .contact hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
 }
 
 .main-footer hr{
     height: 1px;
-    background-color: #0C94FC;
+    background-color: #282828;
 }
 
 .work--lockup{
@@ -260,7 +260,7 @@ body {
 }
 
 .screen-shoots{
-    padding: 50px 0 50px 0;
+    padding: 0px 0 50px 0;
 }
 
 .screen-shoots h2{
@@ -453,7 +453,7 @@ body {
 }
 
 .pricing{
-    padding: 50px 0 50px 0;
+    padding: 65px 0 50px 0;
 }
 
 .pricing h2{
@@ -521,6 +521,10 @@ body {
     }
 }
 
+
+.about-us{
+    padding: 45px 0 0 0;
+}
 
 .about--options {
     max-width: 100%;
@@ -668,12 +672,13 @@ body {
 }
 
 .contact{
-    padding: 100px 0 0 0;
+    padding: 110px 0 0 0;
 }
 
 .contact h2{
     padding-bottom: 50px;
     text-align: center;
+    font-weight: bold;
 }
 
 .work-request {
@@ -961,11 +966,15 @@ body {
     padding: 50px 0 50px 0;
 }
 
+.main-footer h3{
+    font-weight: bold;
+}
+
 .main-footer h3,
 .main-footer p,
 .main-footer a{
     font-size: 16px;
-    color:#fff;
+    color:lightgrey;
 }
 
 .main-footer a:hover{
@@ -973,7 +982,7 @@ body {
 }
 .hover-col:hover h3,
 .hover-col:hover p{
-    color: #0C94FC;
+    color: #fff;
     text-decoration: none;
 }
 
