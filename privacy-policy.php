@@ -57,7 +57,7 @@
                     </p>
 
                     <div class="link_box">
-                        <a href="index.php" style="color: #fff; text-decoration: none;">Home &nbsp;
+                        <a href="index.php#about" style="color: #fff; text-decoration: none;">About &nbsp;
                             <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style=" width: 15px; fill: #fff;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">

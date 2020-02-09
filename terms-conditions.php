@@ -39,7 +39,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="about-text">
-                    <h2>TERMS AND CONDITIONS</h2>
+                    <h2>Terms and Conditions</h2>
                     <p>Last Updated: January 12, 2020
                     </p>
                     <p>Please read these terms and conditions carefully before using the Inner Tennis application and this website (the "service") operated by MAKS Ventures BV ("us", "we", "our").
@@ -80,7 +80,7 @@
                     <p>These Terms and Conditions may be revised at any time we see fit, and you are expected to review such terms on a regular basis to ensure your understanding of all terms and conditions governing use of the Service. We will revise the updated date at the top of this page. By using our Service you are acknowledging your responsibility to do so.</p>
 
                     <div class="link_box">
-                        <a href="index.php" style="color: #fff; text-decoration: none;">Home &nbsp;
+                        <a href="index.php#about" style="color: #fff; text-decoration: none;">About &nbsp;
                             <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style=" width: 15px; fill: #fff;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">

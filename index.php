@@ -122,6 +122,7 @@
 
                 </div>
             </div> <!-- End .row -->
+            <hr>
         </div> <!-- End .container -->
     </section> <!-- End .screenshoots -->
 
@@ -151,10 +152,11 @@
                     </div> <!-- End .about--options-->
                 </div>
             </div> <!-- End .row -->
+            <hr>
         </div> <!-- End .container -->
     </section> <!-- End .pricing -->
 
-    <section class="about-us">
+    <section class="about-us" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -197,6 +199,7 @@
                     </div> <!-- End .about -->
                 </div>
             </div> <!-- End .row -->
+            <hr>
         </div> <!-- End .container -->
     </section><!-- End .about-us -->
 
@@ -272,7 +275,6 @@
         <div class="container">
             <hr>
             <div class="row">
-
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hover-col">
                 <a href="http://www.toptennistracker.com/">
